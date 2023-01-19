@@ -4,7 +4,8 @@
   "description": "Turan Mete nodejs Proje",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "startDev":"nodemon index.js"
   },
   "repository": {
     "type": "git",
