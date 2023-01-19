@@ -1,0 +1,19 @@
+{
+  "name": "nodeodev",
+  "version": "1.0.0",
+  "description": "Turan Mete nodejs Proje",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turanmeteguzel/nodeodev.git"
+  },
+  "author": "turan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turanmeteguzel/nodeodev/issues"
+  },
+  "homepage": "https://github.com/Turanmeteguzel/nodeodev#readme"
+}
